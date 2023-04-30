@@ -8,6 +8,9 @@ boto3==1.24.87
 #web
 fastapi==0.85.0
 uvicorn==0.18.3
-
-
-
+streamlit==1.20.0
+#datascience
+pandas
+scikit-learn==1.2.2
+jupyter
+xgboost
